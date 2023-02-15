@@ -1,0 +1,13 @@
+{
+    "name": "k0nstant/test",
+    "type": "library",
+    "require": {
+        "php": ">=8.0"
+    },
+    "authors": [
+        {
+            "name": "k0nstant",
+            "email": "petrsh6969@gmail.com"
+        }
+    ]
+}
